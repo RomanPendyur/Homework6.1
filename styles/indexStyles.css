@@ -1,0 +1,186 @@
+* {
+    margin: 0em;
+    padding: 0em;
+    box-sizing: border-box;
+  }
+
+.box_style{
+    background-color: #ffffff;
+    margin-top: 139px;
+    width: 1100px;
+    height: auto;
+    display: flex;  
+}
+/*.poloska{  
+  width: 60px;
+  height: 3875px;
+  background-color: #ff0000;
+  opacity: 0.1;
+}*/
+
+.centralBox{
+  
+  width: 220px;
+  height: 167px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.settingsIcon{
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+  width: 65px;
+  height: 65px;  
+  border-radius: 65px;  
+  padding: 19.5px;
+  border: 1px solid #1275b9;
+  background: url("../icons/Settings.svg");
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #1275b9;
+}
+
+.settingsIcon:hover{  
+  background-color: white;
+  background: url("../icons/SettingsBlue.svg");
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.centralLine{
+  margin-top: 20px;
+  text-align: center;
+  font-family: "Proxima Nova";
+}
+
+.centralDownText{  
+  margin-top: 22px; 
+  width: 220px;
+  height: 52px;
+  color: #9d9d9d;
+  font-family: "Proxima Nova";
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 20px;
+  text-align: center;
+  font-style: normal;
+  letter-spacing: 0.35px;
+  line-height: normal;
+}
+
+.rightBox{  
+  width: 220px;
+  height: 167px;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.dashboardIcon{
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+  width: 65px;
+  height: 65px;  
+  border-radius: 65px;  
+  padding: 19.5px;
+  border: 1px solid #1275b9;
+  background: url("../icons/Dashboard.svg");
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #1275b9;
+}
+
+.dashboardIcon:hover{  
+  background-color: white;
+  background: url("../icons/DashboardBlue.svg");
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.rightlLine{
+  margin-top: 20px;
+  text-align: center;
+  font-family: "Proxima Nova";
+}
+
+.rightlDownText{ 
+  margin-top: 22px; 
+  width: 220px;
+  height: 52px;
+  color: #9d9d9d;
+  font-family: "Proxima Nova";
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 20px;
+  text-align: center;
+  font-style: normal;
+  letter-spacing: 0.35px;
+  line-height: normal;
+}
+
+.leftBox{  
+  width: 220px;
+  height: 167px;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.tabletIcon{
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+  width: 65px;
+  height: 65px;  
+  border-radius: 65px;  
+  padding: 19.5px;
+  border: 1px solid #1275b9;
+  background: url("../icons/TabletBlue.svg");
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #ffffff;
+}
+
+.tabletIcon:hover{
+  background: url("../icons/Tablet.svg");
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #1275b9;
+  
+}
+
+.leftLine{
+  margin-top: 20px;
+  text-align: center;
+  font-family: "Proxima Nova";
+}
+
+.leftDownText{ 
+  margin-top: 22px; 
+  width: 220px;
+  height: 52px;
+  color: #9d9d9d;
+  font-family: "Proxima Nova";
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 20px;
+  text-align: center;
+  font-style: normal;
+  letter-spacing: 0.35px;
+  line-height: normal;
+}
